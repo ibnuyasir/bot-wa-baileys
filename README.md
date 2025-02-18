@@ -1,4 +1,4 @@
 # Start
 
-Install: ```npm install```
+Install: ```npm install```\n
 Run: ```node server.js```
